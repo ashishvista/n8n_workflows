@@ -1,0 +1,7 @@
+postgres-data/
+mongo-data/
+n8n/
+
+postgres-data/*
+mongo-data/*
+n8n/*
